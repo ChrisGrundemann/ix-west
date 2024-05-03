@@ -10,7 +10,7 @@ menu:
 
 &nbsp;  
 
-IX-Denver was founded in the Denver Gas and Electric building in downtown Denver thanks to 910Telecom. We have since expanded to multiple locations to better serve our members. This is a major step towards a more robust, more reliable, more cost effective, and truly local Internetwork in this region.
+IX-Denver was founded in the Denver Gas and Electric building in downtown Denver. We have since expanded to become the largest internet exchange in the Rocky Mountain region!
 
 &nbsp;  
 
