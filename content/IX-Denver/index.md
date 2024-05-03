@@ -8,6 +8,8 @@ menu:
 ---
 ![IX-Denver Powered by FullCtl](/images/IX-Denver_FullCtl_logo_lightbg.png 'IX-Denver Powered by FullCtl')
 
+&nbsp;  
+
 IX-Denver was founded in the Denver Gas and Electric building in downtown Denver thanks to 910Telecom. We have since expanded to multiple locations to better serve our members. This is a major step towards a more robust, more reliable, more cost effective, and truly local Internetwork in this region.
 
 &nbsp;  
